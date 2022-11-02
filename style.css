@@ -138,7 +138,7 @@ select {
 @media all and (max-width: 768px) {
     header {
         font-size: 2.5em;
-        margin-left: -70px;
+        /* margin-left: -70px; */
     }
 
     .todo-input {
@@ -148,13 +148,13 @@ select {
     form {
         display: flex;
         flex-wrap: wrap-reverse;
-        margin-left: -70px;
+        /* margin-left: -70px; */
     }
 
     #container {
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-right: 70px;
+        /* margin-right: 70px; */
     }
 }
