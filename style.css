@@ -3,8 +3,8 @@
 }
 
 body {
-    background-color: #FEE140;
-    background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 100%);
+    background-color: #21D4FD;
+    background-image: linear-gradient(45deg, #21D4FD 0%, #B721FF 100%);    
     color: white;
     font-family: 'Rubik', sans-serif;
     min-height: 100vh;
