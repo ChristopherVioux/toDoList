@@ -134,3 +134,27 @@ select {
     background: white;
     color: #FA709A;
 }
+
+@media all and (max-width: 768px) {
+    header {
+        font-size: 2.5em;
+        margin-left: -70px;
+    }
+
+    .todo-input {
+        width: 50%;
+    }
+
+    form {
+        display: flex;
+        flex-wrap: wrap-reverse;
+        margin-left: -70px;
+    }
+
+    #container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 70px;
+    }
+}
